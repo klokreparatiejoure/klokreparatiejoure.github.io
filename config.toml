@@ -42,10 +42,10 @@ title = 'Freerk Pasveer - Klokreparatie Joure'
   footerDescription = "Freerk Pasveer - Klokreparatie Joure"
 
   [params.address]
-  address = "Midstraat 37 <br> 8501 AD Joure"
+  address = "Midstraat 37 \n 8501 AD Joure"
   email = "info@klokreparatiejoure.nl"
   openingDesc = "De openingstijden kunnen afwijken vanwege klantbezoeken. Bel of mail voor een afspraak."
-  openingHours = "Ma. t/m donderdag : 9:00 - 17:00 uur <br> Vrijdag : 9:00 - 17:00 uur <br> Zaterdag: 10:00 - 16:00 uur <br> Lunchpauze: 12:00 - 13:00 uur <br> Opening op afspraak is mogelijk."
+  openingHours = "Ma. t/m donderdag : 9:00 - 17:00 uur \n Vrijdag : 9:00 - 17:00 uur \n Zaterdag: 10:00 - 16:00 uur \n Lunchpauze: 12:00 - 13:00 uur \n Opening op afspraak is mogelijk."
   phone = "+31657552938"
 
   [params.map]
