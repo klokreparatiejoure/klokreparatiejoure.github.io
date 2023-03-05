@@ -12,6 +12,9 @@ services:
 
       Vaak moet een uurwerk worden schoongemaakt en verbusd. Dit houdt in dat het uurwerk ultrasoon wordt gereinigd, de tappen gepolijst en waar nodig nieuwe (bronzen) lagers in de platina’s worden gezet. Ook het uiterlijk van de klok wordt niet vergeten, in overleg maken we uw 30 of 40 jaar oude klok weer ‘als nieuw’. Het geheel wordt opnieuw gemonteerd en afgesteld. Daarna heeft de klok een testperiode nodig.
 
+  - name: "'Op de reparatie van uw klok geven wij minimaal 2 jaar garantie'"
+    description: ""
+
   - name: "Tot 12 jaar garantie mogelijk bij restauratie"
     description: |
       In reparaties en restauraties van antieke klokken en/of grotere uurwerken zit veel werk. Ook hier geldt, vooraf wordt door ons vermeld wat er precies aan het uurwerk moet gebeuren.\n\n

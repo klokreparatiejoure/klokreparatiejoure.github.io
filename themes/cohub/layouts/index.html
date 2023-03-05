@@ -1,6 +1,6 @@
 {{define "main"}}
   {{ partial "lead.html" . }}
-  {{ partial "reparatie.html" . }}
+  {{ partial "reparatie.html" . |markdownify }}
   {{ partial "sfeer.html" . }}
   {{ partial "klokken.html" . }}
   {{ partial "over.html" . }}
