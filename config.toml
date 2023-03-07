@@ -25,13 +25,9 @@ title = 'Freerk Pasveer - Klokreparatie Joure'
 
   # Sitemap Menu
   [[menu.sitemap]]
-  name = "Privacy Policy"
+  name = "Privacy verklaring"
   url = "/privacy/"
   weight = 1
-  [[menu.sitemap]]
-  name = "Terms"
-  url = "/terms/"
-  weight = 2
 
 [params]
   aboutPageURL = "over"
