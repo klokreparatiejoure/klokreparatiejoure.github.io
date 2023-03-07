@@ -51,7 +51,7 @@ title = 'Freerk Pasveer - Klokreparatie Joure'
   pinImage = "images/pin.png"
 
   # Socail icons
-  [[params.social]]
-  icon = "ti-instagram"
-  url = "https://www.instagram.com/"
-  weight = 1
+  # [[params.social]]
+  # icon = "ti-instagram"
+  # url = "https://www.instagram.com/"
+  # weight = 1
