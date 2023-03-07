@@ -11,12 +11,12 @@ title = 'Freerk Pasveer - Klokreparatie Joure'
   url= "#reparatie"
   weight = 1
   [[menu.Main]]
-  name = "Over"
-  url= "#over"
-  weight = 2
-  [[menu.Main]]
   name = "Stoel-en staartklokken"
   url= "#klokken"
+  weight = 2
+  [[menu.Main]]
+  name = "Over"
+  url= "#over"
   weight = 3
   [[menu.Main]]
   name = "Contact"
