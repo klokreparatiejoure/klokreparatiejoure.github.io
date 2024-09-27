@@ -45,7 +45,7 @@ title = 'Freerk Pasveer - Klokreparatie Joure'
   phone = "+31657552938"
 
   [params.map]
-  APIkey = "AIzaSyBb-nrOG33xRrpd6duw_uNJKc6KviphSu0"
+  APIkey = "AIzaSyCX0yHpdHkYEPBAG0N5pA7iWqnds50kBo0"
   latitude = "52.9687785"
   longitude = "5.7915066"
   pinImage = "images/pin.png"
