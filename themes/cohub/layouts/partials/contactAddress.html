@@ -4,8 +4,10 @@
     <div class="row no-gutters">
       <div class="col-lg-6">
         {{ $map := .Site.Params.map }}
-        <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
-        </div>
+          <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox={{ $map.longitude }}%2C{{ $map.latitude }}%2C{{ $map.longitude }}%2C{{ $map.latitude }}&amp;layer=mapnik&amp;marker={{ $map.latitude }}%2C{{ $map.longitude }}" style="border: 1px solid black">
+          </iframe>
+          <br/>
+          <small><a href="https://www.openstreetmap.org/?mlat={{ $map.latitude }}&amp;mlon={{ $map.longitude }}#map=19/{{ $map.latitude }}/{{ $map.longitude }}">Gruttere kaart besjen</a></small>
       </div>
       <div class="col-lg-6">
         <div class="contact-aria">
