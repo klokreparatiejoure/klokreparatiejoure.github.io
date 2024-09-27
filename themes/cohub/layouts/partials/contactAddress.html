@@ -4,10 +4,14 @@
     <div class="row no-gutters">
       <div class="col-lg-6">
         {{ $map := .Site.Params.map }}
-          <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox={{ $map.longitude }}%2C{{ $map.latitude }}%2C{{ $map.longitude }}%2C{{ $map.latitude }}&amp;layer=mapnik&amp;marker={{ $map.latitude }}%2C{{ $map.longitude }}" style="border: 1px solid black">
+        <div id="open-map">
+          <iframe scrolling="no" style="position: relative; height: 100%; width: 100%;" src="https://www.openstreetmap.org/export/embed.html?bbox=5.791044673869172%2C52.96777166515844%2C5.796095273444216%2C52.96962287201468&amp;layer=mapnik&amp;marker=52.968697278496926%2C5.7935699736567585" style="border: 1px solid black">
           </iframe>
           <br/>
-          <small><a href="https://www.openstreetmap.org/?mlat={{ $map.latitude }}&amp;mlon={{ $map.longitude }}#map=19/{{ $map.latitude }}/{{ $map.longitude }}">Gruttere kaart besjen</a></small>
+          <small>
+            <a href="https://www.openstreetmap.org/?mlat=52.968697&amp;mlon=5.793570#map=19/52.968697/5.793570">Gruttere kaart besjen</a>
+          </small>
+        </div>
       </div>
       <div class="col-lg-6">
         <div class="contact-aria">
