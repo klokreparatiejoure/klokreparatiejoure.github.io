@@ -1,6 +1,6 @@
 baseURL = 'https://klokreparatiejoure.nl'
 languageCode = 'nl-NL'
-paginate = 6
+pagination.pagerSize = 6
 theme= 'cohub'
 title = 'Freerk Pasveer - Klokreparatie Joure'
 

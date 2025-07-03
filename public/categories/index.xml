@@ -4,7 +4,8 @@
     <title>Categories on Freerk Pasveer - Klokreparatie Joure</title>
     <link>https://klokreparatiejoure.nl/categories/</link>
     <description>Recent content in Categories on Freerk Pasveer - Klokreparatie Joure</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>nl-NL</language><atom:link href="https://klokreparatiejoure.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>nl-NL</language>
+    <atom:link href="https://klokreparatiejoure.nl/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
